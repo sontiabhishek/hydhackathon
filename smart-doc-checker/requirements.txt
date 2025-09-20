@@ -1,0 +1,28 @@
+# This file lists all the Python packages that this project depends on.
+# Installing these dependencies into a virtual environment is a critical first step
+# to ensure the application runs correctly without "ModuleNotFoundError" runtime errors.
+# Pinning versions (e.g., streamlit==1.33.0) guarantees that the app is tested
+# with and runs on specific, stable versions of each library, preventing
+# unexpected issues from future package updates.
+
+# Core web framework for building the application UI
+streamlit==1.33.0
+
+# Natural Language Toolkit for text tokenization and stop words
+nltk==3.8.1
+
+# Foundational package for numerical operations, required by scikit-learn
+numpy==1.26.4
+
+# Machine learning library for TF-IDF vectorization. Provides the 'sklearn' module.
+scikit-learn==1.4.2
+
+# Library for reading and writing Microsoft Word (.docx) files
+python-docx==1.1.2
+
+# Library for PDF generation
+fpdf2==2.7.8
+# NOTE: This is the community-maintained fork of fpdf and is imported as `from fpdf import FPDF`.
+
+# High-performance library for reading and manipulating PDF files (imported as 'fitz')
+PyMuPDF==1.24.1

@@ -1,0 +1,24 @@
+--- Report ---
+Number of docs checked: 3
+Billing summary: 30 INR
+
+--- Original Text ---
+Collage Rulez and Polisy
+
+1. All studnts must atnd atleast 75% of the classes.
+2. Submision of assignmnts must be done befor 10 PM.
+3. Emploees should give two weaks notice before leaving.
+4. It is mandetory to ware ID cards inside the campus.
+5. The libary closes at 8 PM sharp.
+
+End of document.
+--- Corrected Text ---
+Village Rule and Policy
+
+1. All students must and least 75% of the classes.
+2. Submission of assignment must be done before 10 of.
+3. Employees should give two weeks notice before leaving.
+4. It is mandatory to ware of cards inside the camps.
+5. The library closes at 8 of sharp.
+
+And of document.
